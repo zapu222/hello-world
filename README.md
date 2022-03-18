@@ -2,5 +2,5 @@
 
 Hello all!
 
-Zack here, I am a grad student at the University
+Zack here, I am a graduate student at the University
 of Kentucky studying Data Science.
