@@ -1,6 +1,6 @@
-# Hello World
+# Hello All
 
-Hello all!
-
-Zachary here, I am a graduate student at the University
-of Kentucky studying Data Science.
+Hello fellow programmers, Zachary here, 
+I am a graduate student at the University
+of Kentucky studying Data Science and
+aspiring Data Scientist!
